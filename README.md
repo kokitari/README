@@ -1,6 +1,6 @@
 # README
-about me:
+<h1>about me:</h1>
 
-Aprendendo HTML5 e CSS3
-Em breve começarei os estudos de Php, JS e Linux
+<p>Aprendendo HTML5 e CSS3<br>
+Em breve começarei os estudos de Php, JS e Linux</p>
 
